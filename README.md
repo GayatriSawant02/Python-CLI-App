@@ -1,4 +1,4 @@
-📒 Python CLI Notes Manager
+📒 Python CLI Notes Manager:
 A simple Command-Line Interface (CLI) Notes Manager built using Python and SQLite to create, view, update, and delete notes easily.
 
 🚀 Features
